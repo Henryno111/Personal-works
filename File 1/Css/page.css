@@ -1,0 +1,86 @@
+body {
+    background-color: black;
+    color: goldenrod;
+}
+
+
+header {
+    font-size: 30px;
+    margin: -7px;
+    border:  15px;
+    padding-top: 50px;
+    tex;
+    background-color: black;
+}
+
+#styles {
+    text-align: center;
+    margin-top: 15px;
+    padding-top: -30px;
+    text-shadow: goldenrod 2px 2px 2px;
+    font-family: fantasy;
+    font-size: 70px;
+    font-style: oblique;
+}
+ a{
+    background-color: ;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 200;
+ }
+
+ .one {
+    text-align: center;
+    margin-top: 75px;
+ }
+
+ #heading {
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700px;
+ }
+
+ .choice {
+    margin-top: 100px;
+    display:    ;
+ }
+
+ .Term h1{
+   text-align: center;
+   margin: 30px 300px 50px;
+   border: solid 1px;
+   border-radius: 20px;
+
+ }
+
+ .T-head ul{
+   display: flex;
+   list-style-type: none;
+   justify-content: space-around;
+ }
+
+ .button{
+   background-color: goldenrod;
+   padding: 5px 30px 10px;
+   justify-content: center;
+   border-radius: 10px;
+   text-align: center;
+   font-weight: 500;
+   font-style: oblique;
+ }
+
+ ul {
+   display: flex;
+   list-style-type: none;
+   justify-content: space-around;
+   align-items: center;
+ 
+ }
+
+ footer {
+   background-color: black;
+   margin-top: 200px;
+   padding-top: 20px;
+ }
+ 
